@@ -1,0 +1,24 @@
+{
+  "name": "upenn_med",
+  "version": "1.0.0",
+  "description": "experimental app for upenn medicine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frank-ZhangXin/upenn_med.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frank-ZhangXin/upenn_med/issues"
+  },
+  "homepage": "https://github.com/Frank-ZhangXin/upenn_med#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
